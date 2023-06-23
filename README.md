@@ -2,7 +2,7 @@
 
 **`Theoretical physicist & open-source contributor`**
 
-<br>
+<h3 align="left">About me </h3>
 
 - 🔭  Scientific researcher at [Nanosurf Lab](https://nanosurf.fzu.cz/)
 - 🕵️  Interested in studying the electronic structure and properties of nanomaterials
