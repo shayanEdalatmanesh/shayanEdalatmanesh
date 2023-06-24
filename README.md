@@ -14,6 +14,7 @@
 <h3 align="left">My published articles</h3>
 <p align="left">
   <a href="https://scholar.google.com/citations?user=L2PFHwsAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="soogleScholar" height="30" width="40" /></a>
+  <a href="https://www.researchgate.net/profile/Shayan-Edalatmanesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researchGate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Upcoming talks</h3>
