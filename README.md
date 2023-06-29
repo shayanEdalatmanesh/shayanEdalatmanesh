@@ -4,7 +4,7 @@
 
 <h3 align="left">About me </h3>
 
-- 🔭  Scientific researcher at [Nanosurf Lab](https://nanosurf.fzu.cz/)
+- 🔭  Scientific researcher at [Donostia International Physics Center](https://dipc.ehu.eus/en?set_language=en)
 - 🕵️  Interested in studying the electronic structure and properties of nanomaterials
 - ⚒️   Density functional theory, tight-binding, GW
 - 🔬  Simulations of scanning probe microscopy (AFM, STM and KPFM)
