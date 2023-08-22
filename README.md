@@ -1,4 +1,4 @@
-# Shayan Edalatmanesh
+# Dr. Shayan Edalatmanesh
 
 **`Theoretical physicist & open-source contributor`**
 
