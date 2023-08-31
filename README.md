@@ -1,6 +1,6 @@
 # Dr. Shayan Edalatmanesh
 
-**`Theoretical physicist & open-source contributor`**
+**`Theoretical physical chemist & open-source contributor`**
 
 <h3 align="left">About me </h3>
 
