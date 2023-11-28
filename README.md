@@ -19,6 +19,10 @@
 
 <h3 align="left">Upcoming talks</h3>
 
+This part will be updated soon!
+
+<h3 align="left">Recent talks</h3>
+
 [**Sep 18-20:** SPRING23 international workshop in San Sebastian](https://spring23.dipc.org/)
 
 <h3 align="left">Connect with me</h3>
