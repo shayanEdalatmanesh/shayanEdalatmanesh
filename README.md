@@ -19,7 +19,7 @@
 
 <h3 align="left">Upcoming talks</h3>
 
-This part will be updated soon!
+This part will be updated soon.
 
 <h3 align="left">Recent talks</h3>
 
@@ -27,7 +27,7 @@ This part will be updated soon!
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/shyn_eddie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myTwitter" height="30" width="40" /></a>
+<a href="https://twitter.com/shyn_eddie" target="_blank"><img align="center" src="https://www.freepnglogos.com/images/twitter-x-logo-42554.html" alt="myTwitter" height="30" width="40" /></a>
 <a href="https://instagram.com/shayaneddie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myInsta" height="30" width="40" /></a>
 <a href="mailto: shayan.edalatmanesh@dipc.org"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="myEmail" height="30" width="40"> </a> 
 </p>
