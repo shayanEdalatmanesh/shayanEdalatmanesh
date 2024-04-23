@@ -23,8 +23,9 @@ This part will be updated soon.
 
 <h3 align="left">Future conferences & workshops</h3>
 
-[**May 7-10:** QuantuMatter 2024 conference in San Sebastian](https://www.quantumconf.eu/2024/program.php)
-[**June 2-7:** On-Surface Synthesis 24](https://oss24.dipc.org/)
+[**May 7-10:** QuantuMatter 2024 conference in San Sebastian](https://www.quantumconf.eu/2024/program.php)]
+
+[**June 2-7:** On-Surface Synthesis 24](https://oss24.dipc.org/)]
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
