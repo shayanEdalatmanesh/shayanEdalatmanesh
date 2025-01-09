@@ -35,4 +35,4 @@ This part will be updated soon.
 </p>
 
 <h3 align="left">Outreach Activities</h3>
-<a href="https://github.com/shayanEdalatmanesh/Shayan.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/shayanEdalatmanesh/shayanEdalatmanesh/Shayan.pdf" target="_blank">PDF.</a>
