@@ -34,4 +34,4 @@ This part will be updated soon.
 <a href="mailto: shayan.edalatmanesh@dipc.org"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="myEmail" height="30" width="40"> </a> 
 </p>
 
-<a href="username.github.io/folder/Shayan.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/shayanEdalatmanesh/shayanEdalatmanesh/folder/Shayan.pdf" target="_blank">PDF.</a>
