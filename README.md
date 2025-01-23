@@ -6,7 +6,7 @@
 
 - 🔭  Post-doctoral researcher at [CSIC-CFM](https://cfm.ehu.es)
 - 🕵️  Interested in studying the electronic structure, topological and magnetic properties of nanomaterials
-- ⚒️   Density functional theory, tight-binding, GW
+- ⚒️   Density functional theory, tight-binding, GW Approximation, molecular dynamics
 - 🔬  Simulations of scanning probe microscopy (AFM, STM and KPFM)
 - 👨‍💻  Co-developer of the [Probe-Particle Package](https://github.com/Probe-Particle)
 - 🐍  Python for scientific purposes
