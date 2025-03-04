@@ -1,6 +1,6 @@
 # Shayan Edalatmanesh
 
-**`Computational physical chemist & open-source contributor`**
+**`Computational physicist & open-source contributor`**
 
 <h3 align="left">About me </h3>
 
