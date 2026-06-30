@@ -4,10 +4,10 @@
 
 <h3 align="left">About me </h3>
 
-- 🔭  I'm a material scientist with a PhD in Computational Physical Chemistry.
-- 🕵️  Interested in studying the electronic structure, topological and magnetic properties of nanomaterials
-- ⚒️   Density functional theory, tight-binding, GW Approximation, molecular dynamics
-- 🔬  Simulations of scanning probe microscopy (AFM, STM and KPFM)
+- 🔭  I work on the theory of quantum materials, and hold a PhD in computational physical chemistry.
+- 🕵️  I study exotic quantum phenomena, and focus on the electronic structure, topological and magnetic properties of nanomaterials.
+- ⚒️  I combine a variety of methodologies: Density functional theory, tight-binding, GW Approximation, QM/MM molecular dynamics, MACE
+- 🔬  I'm an expert in the simulations of scanning probe microscopy (AFM, STM and KPFM)
 - 👨‍💻  Co-developer of the [Probe-Particle Package](https://github.com/Probe-Particle)
 - 🐍  Python for scientific purposes
 
