@@ -6,7 +6,7 @@
 
 - 🔭  I work on the theory of quantum materials, and hold a PhD in computational physical chemistry.
 - 🕵️  I study exotic quantum phenomena, and focus on the electronic structure, topological and magnetic properties of nanomaterials.
-- ⚒️  I combine a variety of methodologies: Density functional theory, tight-binding, GW Approximation, QM/MM molecular dynamics, MACE
+- ⚒️  I combine various methodologies: Density functional theory, tight-binding, GW Approximation, QM/MM molecular dynamics
 - 🔬  I'm an expert in the simulations of scanning probe microscopy (AFM, STM and KPFM)
 - 👨‍💻  Co-developer of the [Probe-Particle Package](https://github.com/Probe-Particle)
 - 🐍  Python for scientific purposes
