@@ -17,14 +17,14 @@
   <a href="https://www.researchgate.net/profile/Shayan-Edalatmanesh" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researchGate" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Upcoming talks</h3>
+ <! --
+ <h3 align="left">Upcoming talks</h3>
 
 This part will be updated soon.
 
 <h3 align="left">Future conferences & workshops</h3>
 
-This part will be updated soon.
-
+This part will be updated soon. -->
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/shyn_eddie" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="myTwitter" height="40" width="40" /></a>
