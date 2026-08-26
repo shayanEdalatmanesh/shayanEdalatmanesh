@@ -35,8 +35,6 @@ This part will be updated soon. -->
 <h3 align="left">Selected Outreach Activities</h3>
 <a href="https://pinhs.dipc.org/program" target="_blank"> Speaker at Perspectives in Non-Hermitian Systems Workshop (2025)</a>
 
-
 <a href="https://lnkd.in/p/e3zHAqNN" target="_blank">Speaker at The CFM Workshop on Materials Science - Santo Tomas Lizeola Ikastola (2024)</a>
-
 
 <a href="https://github.com/shayanEdalatmanesh/shayanEdalatmanesh/blob/main/Shayan.pdf" target="_blank">Science Museum Presentation (2024)</a>
