@@ -29,7 +29,7 @@ This part will be updated soon. -->
 <p align="left">
 <!--<a href="https://twitter.com/shyn_eddie" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="myTwitter" height="40" width="40" /></a> -->
 <!--<a href="https://instagram.com/shayaneddie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myInsta" height="30" width="40" /></a>-->
-<a href="mailto: shayan.edalatmanesh@proton.me"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg](https://commons.wikimedia.org/wiki/Category:E-mail_icons#/media/File:Mail_logo_png.png" alt="myEmail" height="30" width="40"> </a> 
+<a href="mailto: shayan.edalatmanesh@proton.me"><img align="center" src="https://commons.wikimedia.org/wiki/Category:E-mail_icons#/media/File:Mail_logo_png.png" alt="myEmail" height="30" width="40"> </a> 
 </p>
 
 <h3 align="left">Selected Outreach Activities</h3>
