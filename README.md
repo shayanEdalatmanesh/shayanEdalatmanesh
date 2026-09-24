@@ -4,10 +4,11 @@
 
 <h3 align="left">About me </h3>
 
-- 🔭  I work on the theory of quantum materials, and hold a PhD in computational physical chemistry.
-- 🕵️  Study exotic quantum phenomena, and focus on the electronic structure, topological and magnetic properties of nanomaterials.
-- ⚒️  I combine various methodologies: Density functional theory, tight-binding, GW Approximation, QM/MM molecular dynamics & machine-learned interatomic potentials
-- 🔬  I'm an expert in the simulations of scanning probe microscopy (AFM, STM and KPFM)
+- 🔭  Theory of quantum materials (PhD in computational physical chemistry)
+- 🕵️  Exotic quantum phenomena: electronic structure, topological and magnetic properties of nanomaterials
+- ⚒️  Toolkit: Density functional theory, tight-binding, GW Approximation, QM/MM molecular dynamics & machine-learned interatomic potentials
+- 🤖  Recently exploring agentic AI for scientific computing
+- 🔬  Simulations of scanning probe microscopy (AFM, STM and KPFM) --> my specialty
 - 👨‍💻  Co-developer of the [Probe-Particle Package](https://github.com/Probe-Particle)
 - 🐍  Python for scientific purposes
 
