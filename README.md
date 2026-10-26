@@ -25,7 +25,7 @@ PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC
 
 ### Selected projects
 
-- **[League of Legends match-outcome classifier](https://shayanedalatmanesh.github.io/projects.html#lol)**: PyTorch logistic regression with leakage-aware validation (75.4% accuracy, AUC 0.82).
+- **[League of Legends match-outcome predictor](https://shayanedalatmanesh.github.io/projects.html#lol)**: PyTorch logistic regression with leakage-aware validation (75.4% accuracy, AUC 0.82).
 - **[Non-Hermitian SSH chain](https://shayanedalatmanesh.github.io/projects.html#nh-ssh)**: how substrate coupling changes the spectrum and edge states.
 
 ### Publications and talks
