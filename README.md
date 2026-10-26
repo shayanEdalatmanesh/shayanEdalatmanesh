@@ -30,7 +30,7 @@ PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC
 
 ### Publications and talks
 
-[Google Scholar](https://scholar.google.com/citations?user=L2PFHwsAAAAJ&hl=en) · [ORCID](https://orcid.org/YOUR-ID) · [ResearchGate](https://www.researchgate.net/profile/Shayan-Edalatmanesh)
+[Google Scholar](https://scholar.google.com/citations?user=L2PFHwsAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9095-1525)
 
 Invited and outreach talks: [Perspectives in Non-Hermitian Systems workshop, 2025](https://pinhs.dipc.org/program) · [CFM Workshop, Santo Tomas Lizeola Ikastola, 2024](https://lnkd.in/p/e3zHAqNN) · [Science Museum presentation, 2024](https://github.com/shayanEdalatmanesh/shayanEdalatmanesh/blob/main/Shayan.pdf)
 
