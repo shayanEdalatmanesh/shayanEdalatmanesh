@@ -1,6 +1,6 @@
 # Shayan Edalatmanesh
 
-**Computational physicist · Electronic-structure simulation, scanning-probe microscopy and scientific machine learning**
+**Computational physicist · Electronic-structure calculations, scanning-probe microscopy simulations and scientific machine learning**
 
 PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC and CSIC/CFM in San Sebastián. I build and use simulation methods to explain what experiments see at the atomic scale, and I write the scientific software to do it. 20 peer-reviewed publications, including Nature Nanotechnology, Nature Chemistry, Nature Communications and Angewandte Chemie.
 
