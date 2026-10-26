@@ -1,41 +1,39 @@
 # Shayan Edalatmanesh
 
-**`Computational physicist & open-source contributor`**
+**Computational physicist · Electronic-structure simulation, scanning-probe microscopy and scientific machine learning**
 
-<h3 align="left">About me </h3>
+PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC and CSIC/CFM in San Sebastián. I build and use simulation methods to explain what experiments see at the atomic scale, and I write the scientific software to do it. 20 peer-reviewed publications, including Nature Nanotechnology, Nature Chemistry, Nature Communications and Angewandte Chemie.
 
-- 🔭  Theory of quantum materials (PhD in computational physical chemistry)
-- 🕵️  Exotic quantum phenomena: electronic structure, topological and magnetic properties of nanomaterials
-- ⚒️  Toolkit: Density functional theory, tight-binding, GW Approximation, QM/MM molecular dynamics & machine-learned interatomic potentials
-- 🤖  Recently exploring agentic AI for scientific computing
-- 🔬  Simulations of scanning probe microscopy (AFM, STM and KPFM) --> my specialty
-- 👨‍💻  Co-developer of the [Probe-Particle Package](https://github.com/Probe-Particle)
-- 🐍  Python for scientific purposes
+**[shayanedalatmanesh.github.io]** · [Publications](https://YOUR-SITE/publications.html) · [Projects](https://YOUR-SITE/projects.html) · [CV](https://YOUR-SITE/cv.html)
 
-<h3 align="left">My published articles</h3>
-<p align="left">
-  <a href="https://scholar.google.com/citations?user=L2PFHwsAAAAJ&hl=en" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="soogleScholar" height="30" width="40" /></a>
-  <a href="https://www.researchgate.net/profile/Shayan-Edalatmanesh" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researchGate" height="30" width="40" /></a>
-</p>
+---
 
- <!--
- <h3 align="left">Upcoming talks</h3>
+### What I work on
 
-This part will be updated soon.
+| | |
+|---|---|
+| **Methods** | Density functional theory (VASP, 7+ years), tight-binding, GW, QM/MM molecular dynamics, machine-learned interatomic potentials |
+| **Physics** | Electronic structure, topological and magnetic properties of nanomaterials, non-Hermitian systems |
+| **Specialty** | Simulation of scanning-probe microscopy (STM, AFM, KPFM), so that calculations can be compared directly with experiment |
+| **Software and data** | Python (NumPy, pandas, scikit-learn, PyTorch), open-source scientific code, reproducible analysis |
+| **Now exploring** | Agentic AI for scientific computing |
 
-<h3 align="left">Future conferences & workshops</h3>
+### Open source
 
-This part will be updated soon. -->
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<!--<a href="https://twitter.com/shyn_eddie" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="myTwitter" height="40" width="40" /></a> -->
-<!--<a href="https://instagram.com/shayaneddie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myInsta" height="30" width="40" /></a>-->
-<a href="mailto: shayan.edalatmanesh@proton.me"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/If_aiga_mail_134146_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original" alt="myEmail" height="30" width="40"> </a> 
-</p>
+- **[PPSTM](https://doi.org/10.5281/zenodo.19706972)**: STM and AFM image simulation from first-principles data. Author and maintainer.
+- **[Probe-Particle Package](https://github.com/Probe-Particle)**: co-developer.
 
-<h3 align="left">Selected Outreach Activities</h3>
-<a href="https://pinhs.dipc.org/program" target="_blank"> Speaker at Perspectives in Non-Hermitian Systems Workshop (2025)</a>
+### Selected projects
 
-<a href="https://lnkd.in/p/e3zHAqNN" target="_blank">Speaker at The CFM Workshop on Materials Science - Santo Tomas Lizeola Ikastola (2024)</a>
+- **[League of Legends match-outcome classifier](https://YOUR-SITE/projects.html#lol)**: PyTorch logistic regression with leakage-aware validation (75.4% accuracy, AUC 0.82).
+- **[Non-Hermitian SSH chain](https://YOUR-SITE/projects.html#nh-ssh)**: how substrate coupling changes the spectrum and edge states.
 
-<a href="https://github.com/shayanEdalatmanesh/shayanEdalatmanesh/blob/main/Shayan.pdf" target="_blank">Science Museum Presentation (2024)</a>
+### Publications and talks
+
+[Google Scholar](https://scholar.google.com/citations?user=L2PFHwsAAAAJ&hl=en) · [ORCID](https://orcid.org/YOUR-ID) · [ResearchGate](https://www.researchgate.net/profile/Shayan-Edalatmanesh)
+
+Invited and outreach talks: [Perspectives in Non-Hermitian Systems workshop, 2025](https://pinhs.dipc.org/program) · [CFM Workshop, Santo Tomas Lizeola Ikastola, 2024](https://lnkd.in/p/e3zHAqNN) · [Science Museum presentation, 2024](https://github.com/shayanEdalatmanesh/shayanEdalatmanesh/blob/main/Shayan.pdf)
+
+### Contact
+
+San Sebastián, Spain · [shayan.edalatmanesh@proton.me](mailto:shayan.edalatmanesh@proton.me)
