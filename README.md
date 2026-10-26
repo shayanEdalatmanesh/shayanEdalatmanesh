@@ -4,7 +4,7 @@
 
 PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC and CSIC/CFM in San Sebastián. I build and use simulation methods to explain what experiments see at the atomic scale, and I write the scientific software to do it. 20 peer-reviewed publications, including Nature Nanotechnology, Nature Chemistry, Nature Communications and Angewandte Chemie.
 
-**[shayanedalatmanesh.github.io]** · [Publications](https://YOUR-SITE/publications.html) · [Projects](https://YOUR-SITE/projects.html) · [CV](https://YOUR-SITE/cv.html)
+**[shayanedalatmanesh.github.io]** · [Publications](https://shayanedalatmanesh.github.io/publications.html) · [Projects](https://shayanedalatmanesh.github.io/projects.html) · [CV](https://shayanedalatmanesh.github.io/cv.html)
 
 ---
 
@@ -25,8 +25,8 @@ PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC
 
 ### Selected projects
 
-- **[League of Legends match-outcome classifier](https://YOUR-SITE/projects.html#lol)**: PyTorch logistic regression with leakage-aware validation (75.4% accuracy, AUC 0.82).
-- **[Non-Hermitian SSH chain](https://YOUR-SITE/projects.html#nh-ssh)**: how substrate coupling changes the spectrum and edge states.
+- **[League of Legends match-outcome classifier](https://shayanedalatmanesh.github.io/projects.html#lol)**: PyTorch logistic regression with leakage-aware validation (75.4% accuracy, AUC 0.82).
+- **[Non-Hermitian SSH chain](https://shayanedalatmanesh.github.io/projects.html#nh-ssh)**: how substrate coupling changes the spectrum and edge states.
 
 ### Publications and talks
 
