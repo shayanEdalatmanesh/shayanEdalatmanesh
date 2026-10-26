@@ -20,7 +20,7 @@ PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC
 
 ### Open source
 
-- **[PPSTM](https://doi.org/10.5281/zenodo.19706972)**: STM and AFM image simulation from first-principles data. Author and maintainer.
+- **[PPSTM](https://doi.org/10.5281/zenodo.19706972)**: STM image simulations from first-principles data. Author and maintainer.
 - **[Probe-Particle Package](https://github.com/Probe-Particle)**: co-developer.
 
 ### Selected projects
