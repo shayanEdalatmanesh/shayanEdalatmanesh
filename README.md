@@ -15,8 +15,8 @@ PhD in physical chemistry (Palacký University, 2023). Postdoctoral work at DIPC
 | **Methods** | Density functional theory (VASP, 7+ years), tight-binding, GW, QM/MM molecular dynamics, machine-learned interatomic potentials |
 | **Physics** | Electronic structure, topological and magnetic properties of nanomaterials, non-Hermitian systems |
 | **Specialty** | Simulation of scanning-probe microscopy (STM, AFM, KPFM), so that calculations can be compared directly with experiment |
-| **Software and data** | Python (NumPy, pandas, scikit-learn, PyTorch), open-source scientific code, reproducible analysis |
-| **Now exploring** | Agentic AI for scientific computing & Quantum Computing |
+| **Software and data** | Python (NumPy, pandas, scikit-learn, PyTorch, qiskit), open-source scientific code, reproducible analysis |
+| **Now exploring** | Agentic AI for scientific computing |
 
 ### Open source
 
